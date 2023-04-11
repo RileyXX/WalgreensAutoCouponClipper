@@ -24,4 +24,4 @@ To download this as a text file for later use right click [this link](https://ra
 * [Reddit](https://www.reddit.com/r/meijer/comments/108iftd/auto_clip_all_coupons_script_for_meijercom_with/)
 
 ## Demo:
-![Demo](https://i.imgur.com/mRXpnj1.gif)
+![Demo](https://github.com/RileyXX/WalgreensAutoCouponClipper/raw/main/04-11-2023_258.gif)

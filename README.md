@@ -12,7 +12,7 @@ This script will auto clip coupons on Walgreens.com
 
 ## Javascript code (up to 200 coupons):
     fetch("https://raw.githubusercontent.com/RileyXX/WalgreensAutoCouponClipper/main/WalgreensAutoCouponClipper.js").then((e=>e.text())).then((e=>{let t=document.createElement("script");t.innerHTML=e,document.body.appendChild(t)})).catch((e=>console.error(e)));
-To download this as a text file for later use right click [this link](https://raw.githubusercontent.com/RileyXX/WalgreensAutoCouponClipper/main/WalgreensAutoCouponClipper.txt) > save link as > save. Or open link and ctrl+s to download. Alternatively, you can copy the code and go to [step 2](https://github.com/RileyXX/WalgreensAutoCouponClipper#how-to-use-chrome-browser-instructions-hotkeys-might-vary-depending-on-your-browseroperating-system) of the "How to use" section.
+To download this as a text file for later use right click [this link](https://raw.githubusercontent.com/RileyXX/WalgreensAutoCouponClipper/main/WalgreensAutoCouponClipper.txt) > save link as > save. Or open link and ctrl+s to download. Alternatively, you can copy the code and go to [step 2](https://github.com/RileyXX/WalgreensAutoCouponClipper/blob/main/README.md#how-to-use) of the "How to use" section.
 
 ## Notes/Limitations:
 

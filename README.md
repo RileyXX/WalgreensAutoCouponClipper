@@ -4,7 +4,7 @@ This script will auto clip coupons on Walgreens.com
 ## How to use:
 
 1. Copy the javascript code below OR create a new .txt file on your computer and save the following javascript code
-2. Login to meijer.com and navigate to the [coupons page](https://www.meijer.com/content/meijer/en/mperks/coupons.html)
+2. Login to walgreens.com and navigate to the [coupons page](https://www.walgreens.com/offers/offers.jsp/)
 3. In browser, press F12 OR right click>inspect element
 4. Click the console tab in the popup window
 5. Paste the javascript code in the box at the bottom and press enter

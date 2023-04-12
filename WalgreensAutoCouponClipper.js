@@ -9,7 +9,7 @@ function clickElementWithDelay(i) {
     if (i < clipElements.length) {
         // Check if the element contains the text 'Clip'
         if (clipElements[i].textContent.indexOf('Clip') > -1) {
-            // Schedule a click after a random delay between 500-4000 milliseconds
+            // Schedule a click after a random delay between 300-1800 milliseconds
             setTimeout(() => {
                 clipElements[i].click();
                 // Call the function recursively with the next index

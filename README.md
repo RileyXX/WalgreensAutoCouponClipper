@@ -11,7 +11,7 @@ fetch("https://raw.githubusercontent.com/RileyXX/WalgreensAutoCouponClipper/main
   .then((e=>{let t=document.createElement("script");t.innerHTML=e,document.body.appendChild(t)}))
   .catch((e=>console.error(e)));
 ```
-_You can download the code as a text file for later use by right-clicking [this link](https://raw.githubusercontent.com/RileyXX/WalgreensAutoCouponClipper/main/WalgreensAutoCouponClipper.txt), selecting "Save Link As," and saving the file._
+_You can download the code as a text file for later use by right-clicking [this link](https://raw.githubusercontent.com/RileyXX/WalgreensAutoCouponClipper/main/WalgreensAutoCouponClipper.txt), selecting "Save Link As," and saving the file. <br>Source code can be found [here](https://github.com/RileyXX/WalgreensAutoCouponClipper/blob/main/WalgreensAutoCouponClipper.js)._
 
 2. Login to Walgreens.com and navigate to the [coupons page](https://www.walgreens.com/offers/offers.jsp/).
 3. In your browser, press F12 or right-click and select "Inspect Element."

@@ -9,12 +9,12 @@ function clickElementWithDelay(i) {
     if (i < clipElements.length) {
         // Check if the element contains the text 'Clip'
         if (clipElements[i].textContent.indexOf('Clip') > -1) {
-            // Schedule a click after a random delay between 300-800 milliseconds
+            // Schedule a click after a random delay between 400-1000 milliseconds
             setTimeout(() => {
                 clipElements[i].click();
                 // Call the function recursively with the next index
                 clickElementWithDelay(i + 1);
-            }, Math.floor(Math.random() * (800 - 300 + 1) + 300));
+            }, Math.floor(Math.random() * (1000 - 400 + 1) + 400));
         } else {
             // If the element does not contain the text 'Clip', skip it
             clickElementWithDelay(i + 1);

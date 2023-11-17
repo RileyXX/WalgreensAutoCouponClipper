@@ -28,7 +28,7 @@ _You can download the code as a text file for later use by right-clicking [this 
 ![Demo](https://github.com/RileyXX/WalgreensAutoCouponClipper/raw/main/demo.gif)
 
 ## This Tool Was Also Posted On:
-- [Reddit](https://www.reddit.com/r/meijer/comments/108iftd/auto_clip_all_coupons_script_for_meijercom_with/)
+- [Reddit](https://www.reddit.com/r/WalgreensStores/comments/17xczj4/auto_clip_all_coupons_script_for_walgreenscom/)
 
 ## Sponsorships, Donations, and Custom Projects:
 If you find my scripts helpful, you can become a [sponsor](https://github.com/sponsors/RileyXX) and support my projects! If you need help with a project, open an issue, and I'll do my best to assist you. For other inquiries and custom projects, you can contact me on [Twitter](https://twitter.com/RileyxBell).
